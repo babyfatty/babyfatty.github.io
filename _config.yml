@@ -1,11 +1,11 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: babyfat的主页
+email: sxcbabyfat@gamil.com
+description: "Be the change you wish to see in the world. - Gandhi"
 baseurl: ""
 url: ""
-twitter_username: jekyllrb
-github_username:  jekyll
+weibo_username: 沈_星_尘
+github_username:  babyfatty
 
 # Build settings
 markdown: kramdown
