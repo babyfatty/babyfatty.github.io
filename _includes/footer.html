@@ -4,14 +4,15 @@
 
     <div class="footer-col-1 column">
       <ul>
-        <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        <li>Gmail:<a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
       </ul>
+
     </div>
 
     <div class="footer-col-2 column">
       <ul>
         {% if site.github_username %}<li>
-          <a href="https://github.com/{{ site.github_username }}">
+          <a href="https://github.com/{{ site.github_username }}" target="_blank">
             <span class="icon github">
               <svg version="1.1" class="github-icon-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                  viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
@@ -30,7 +31,7 @@
           </a>
         </li>{% endif %}
         {% if site.weibo_username %}<li>
-          <a href="https://twitter.com/{{ site.twitter_username }}">
+          <a href="http://weibo.com/u/2645114903" target="_blank">
             <span class="icon weibo">
               <svg version="1.1" class="twitter-icon-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                  viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
