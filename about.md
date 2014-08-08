@@ -14,5 +14,6 @@ permalink: /about/
 
 喜欢近代史，对清末民初的历史尤为着迷，认为这是一个了不起的时间点。
 
-不喜欢社交网络，所以博客也不加评论框，如果您想与我联系，可以Email:<a href="mailto:{{ site.email }}">{{ site.email }}</a>
+如果您想与我联系，可以Email:<a href="mailto:{{ site.email }}">{{ site.email }}</a>
+或 <a href="http://weibo.com/2645114903/profile?topnav=1&wvr=5&user=1" target="_blanket">微博</a>
 
