@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>babyfat的主页</title>
+    <description>Be the change you wish to see in the world.</description>
+    <link>babyfat.github.io/</link>
+    <atom:link href="babyfat.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 08 Aug 2014 09:47:48 +0800</pubDate>
+    <lastBuildDate>Fri, 08 Aug 2014 09:47:48 +0800</lastBuildDate>
+    <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title> Hello World !</title>
+        <description>&lt;p&gt;‘Hello World !’ 这个词还是比较有趣的，既然大家都约定第一句代码打出来的是它，那我也就不免俗了。
+这次把博客迁移到github pages上来，还是很满意的，过去用过wordpress，还是觉得过于繁琐，pages这个东西就真正解放了blogger们了，配合起jekyll,
+第一次感觉到我只需要关注文字本身，套用他官网的话来说：
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;No more databases, comment moderation, or pesky updates to install  -—just your content.&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;近日想法是颇多，但说出来也难免会伤到一些人，索性不说罢了。只是觉得，现在这时日，能活到纯粹的人，倒真是不多见了。
+“过早的关注不是这个年龄应该关注的东西”，这是我身边很多人的特点，其实也不奇怪，缺乏安全感，自身没太多特点，而又突然脱离学校这种温室，自然会希望自己现在所处的是绝对安全的地方。
+可是这些人真的把我激怒了。“诋毁他人，抬高自己，获取安慰。”，实为可恨,可怜。&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 07 Aug 2014 22:19:08 +0800</pubDate>
+        <link>babyfat.github.io/eassy/2014/08/07/helloworld/</link>
+        <guid isPermaLink="true">babyfat.github.io/eassy/2014/08/07/helloworld/</guid>
+        
+        
+        <category>eassy</category>
+        
+      </item>
+    
+      <item>
+        <title> cocos2d-js 初尝(1)</title>
+        <description>&lt;p&gt;做游戏，在我心中一直是一件高大上的事情，可是随着这些日子H5的蓬勃发展，h5小游戏已经像雨后春笋一般涌现，不失为一个机遇。
+作为一个前端，能做游戏真是一件大快人心的事情。相比起做web，我觉得做一些跨终端的产品更有趣些，而一些优秀的框架可以帮我们更轻松的完成这件事。
+这次就想尝试一下一个js的游戏引擎：cocos2d-js。&lt;/p&gt;
+
+&lt;!--more--&gt;
+&lt;p&gt;其实他只是cocos2d-x的js版本，前身是cocos2d-html5.而最新的版本里，把Cocos2d-h5与jsbinding结合起来，做到了跨终端。
+只是由于官网文档比较混乱，新老版本的命令加载在一起，建议直接去看英文文档，比较新。&lt;/p&gt;
+
+&lt;p&gt;由于研究不深，准备接下来写一个系列，学一点写一点吧。&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 07 Aug 2014 22:19:08 +0800</pubDate>
+        <link>babyfat.github.io/tec/2014/08/07/cocos2d-js/</link>
+        <guid isPermaLink="true">babyfat.github.io/tec/2014/08/07/cocos2d-js/</guid>
+        
+        
+        <category>tec</category>
+        
+      </item>
+    
+  </channel>
+</rss>
