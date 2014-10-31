@@ -49,6 +49,7 @@ a:visited { color: #205caa; }
   top: 0;
   left: 0;
   width: 100%;
+  opacity: 0.94;
 }
 
 .site-title,
